@@ -11,8 +11,12 @@
             "id": "6b12f11d0fd71742",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Options Crash Course.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Options Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Options Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Options Crash Course.md"
+              }
             }
           }
         ]
@@ -138,6 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b12f11d0fd71742",
-  "lastOpenFiles": []
+  "active": "c7d8dda0bcf48d0c",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20230529203224.png",
+    "attachments/Pasted image 20230529203139.png",
+    "attachments/Pasted image 20230529202837.png",
+    "attachments/Pasted image 20230529202708.png",
+    "attachments/Pasted image 20230529202502.png",
+    "attachments/Pasted image 20230529202321.png",
+    "attachments/Pasted image 20230529201929.png",
+    "attachments/Pasted image 20230529201146.png",
+    "attachments/Pasted image 20230529195651.png",
+    "Options Crash Course.md",
+    "attachments/Pasted image 20230529200237.png",
+    "attachments/Pasted image 20230529194338.png",
+    "attachments"
+  ]
 }
