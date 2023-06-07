@@ -88,4 +88,22 @@ Summary of an Option Contract:
 4. Type
 ![[Pasted image 20230529203139.png]]
 ![[Pasted image 20230529203224.png]]
+![[Pasted image 20230529203348.png]]
+![[Pasted image 20230529203432.png]]
+### Exchange-traded options
+1. Physical Underlying. Take on longshort position in underlying.
+2. Futures position. Take on long/short position in futures.
+3. Cash Settlement. Indices primarily.
+### Exercise Style
+1. European Contract
+	- Can only be exercised at Expiration.
+2. American Contract
+	- Can be exercised anytime between now and the expiration date.
+
+## Option Payoff Diagrams
+![[Pasted image 20230529204127.png]]
+![[Pasted image 20230529204344.png]]
+![[Pasted image 20230529204413.png]]
+![[Pasted image 20230529204521.png]]
+
 

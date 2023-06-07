@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3922918ba27e2570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black-Scholes and Risk Neutral Valuation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -146,20 +158,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7d8dda0bcf48d0c",
+  "active": "6b12f11d0fd71742",
   "lastOpenFiles": [
+    "Black-Scholes and Risk Neutral Valuation.md",
+    "attachments/Pasted image 20230530142009.png",
+    "Options Crash Course.md",
+    "attachments/Pasted image 20230529204521.png",
+    "attachments/Pasted image 20230529204413.png",
+    "attachments/Pasted image 20230529204344.png",
+    "attachments/Pasted image 20230529203348.png",
+    "attachments/Pasted image 20230529204127.png",
+    "attachments/Pasted image 20230529203432.png",
     "attachments/Pasted image 20230529203224.png",
     "attachments/Pasted image 20230529203139.png",
     "attachments/Pasted image 20230529202837.png",
-    "attachments/Pasted image 20230529202708.png",
-    "attachments/Pasted image 20230529202502.png",
-    "attachments/Pasted image 20230529202321.png",
-    "attachments/Pasted image 20230529201929.png",
-    "attachments/Pasted image 20230529201146.png",
-    "attachments/Pasted image 20230529195651.png",
-    "Options Crash Course.md",
-    "attachments/Pasted image 20230529200237.png",
-    "attachments/Pasted image 20230529194338.png",
     "attachments"
   ]
 }
